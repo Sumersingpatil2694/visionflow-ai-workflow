@@ -1,0 +1,11 @@
+streamlit>=1.37.0
+opencv-python>=4.10.0.84
+numpy>=1.26.4
+pillow>=10.4.0
+requests>=2.32.3
+easyocr>=1.7.1
+torch>=2.3.1
+torchvision>=0.18.1
+openpyxl>=3.1.2
+networkx>=3.2
+scikit-image>=0.22.0
