@@ -258,7 +258,3 @@ Currently covers `tests/test_arrow_detector.py`. Contributions of additional tes
 ## Contributing
 
 Issues and pull requests are welcome. Please open an issue describing the diagram style or bug before submitting large changes to the detection thresholds in `config.py`, since they were tuned carefully against a reference test case.
-
-## License
-
-Add your preferred license here (e.g. MIT, Apache-2.0).
