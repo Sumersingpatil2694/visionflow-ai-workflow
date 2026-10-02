@@ -35,7 +35,7 @@
 
 ## How It Works (Pipeline Architecture)
 
-The pipeline (`src/pipeline.py`) runs as a sequence of stages, each reporting progress back to the Streamlit UI:
+The pipeline (`src/pipeline.py`) runs as a sequence of stages, each reporting progress back to the Streamlit UI: 
 
 1. **Load & normalize** — image is loaded and resized to a max dimension (`preprocess.load_and_normalize`)
 2. **Enhance** — denoise, CLAHE contrast enhancement, sharpening, and deskew (`preprocess.full_pipeline`)
